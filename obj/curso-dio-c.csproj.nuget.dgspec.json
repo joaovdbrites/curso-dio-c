@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Brites\\Documents\\GitHub\\curso-dio-c\\curso-dio-c.csproj": {}
+    "C:\\Users\\jvbri\\OneDrive\\Documentos\\GitHub\\curso-dio-c\\curso-dio-c.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Brites\\Documents\\GitHub\\curso-dio-c\\curso-dio-c.csproj": {
+    "C:\\Users\\jvbri\\OneDrive\\Documentos\\GitHub\\curso-dio-c\\curso-dio-c.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Brites\\Documents\\GitHub\\curso-dio-c\\curso-dio-c.csproj",
+        "projectUniqueName": "C:\\Users\\jvbri\\OneDrive\\Documentos\\GitHub\\curso-dio-c\\curso-dio-c.csproj",
         "projectName": "curso-dio-c",
-        "projectPath": "C:\\Users\\Brites\\Documents\\GitHub\\curso-dio-c\\curso-dio-c.csproj",
-        "packagesPath": "C:\\Users\\Brites\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Brites\\Documents\\GitHub\\curso-dio-c\\obj\\",
+        "projectPath": "C:\\Users\\jvbri\\OneDrive\\Documentos\\GitHub\\curso-dio-c\\curso-dio-c.csproj",
+        "packagesPath": "C:\\Users\\jvbri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jvbri\\OneDrive\\Documentos\\GitHub\\curso-dio-c\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Brites\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\jvbri\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
